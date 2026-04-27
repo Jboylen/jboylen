@@ -3,7 +3,7 @@
 **If it's broken, I fix it. If it doesn't exist, I build it. | AI, TS/JS, Python, Embedded HW**
 
 ## 🛠 About Me
-I'm a tinkerer, elite troubleshooter, and full-stack developer. With over 15 years of experience in engineering and telecom (currently specializing in Ericsson/Nokia wireless networks), I've built a career on solving complex hardware issues, developing technical standards, and training teams. 
+I'm a tinkerer, elite troubleshooter, and full-stack developer. With over 20 years of experience in troubleshooting complex issues (currently specializing in Ericsson/Nokia RAN), I've built a career on solving complex hardware issues, developing technical standards, and training teams. 
 
 Recently, I've merged my engineering mindset with modern software development. I specialize in **AI integrations, API orchestration, and bridging the gap between digital tools and physical hardware**. 
 
