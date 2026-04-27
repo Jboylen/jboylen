@@ -20,7 +20,7 @@ Recently, I've merged my engineering mindset with modern software development. I
 *(Repositories are kept private, but here is a look under the hood at my systems design!)*
 
 ### 1. Sierra Chart Alert Monitor
-**A high-performance, low-latency pipeline bridging local trading instances with remote Discord teams.**
+**A high-performance, low-latency pipeline bridging local trading instances with Discord for alert management.**
 * **Decoupled Systems Architecture:** Built as a standalone service to isolate monitoring logic from the trading platform, preventing UI lockups and ensuring zero-loss alert processing.
 * **Hybrid Concurrency:** Engineered a custom pipeline that seamlessly orchestrates asynchronous event loops (`discord.py`, `Textual` TUI) alongside synchronous, thread-safe file I/O (`watchdog`) without blocking the main thread.
 * **Custom TUI Dashboard:** Built a fully reactive, live terminal dashboard using `Textual` that surfaces real-time system health, latency sparklines, and active bot logs.
