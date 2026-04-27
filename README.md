@@ -35,7 +35,7 @@ Recently, I've merged my engineering mindset with modern software development. I
 * **Hardware Bridge:** Engineered a custom printing module that communicates over Network/USB/Serial. It parses task data, formats it using the native ESC/POS protocol, and includes a custom algorithm to generate accurate ASCII print-previews in the web UI.
 * **Discord Integration:** Built a custom Discord bot that hooks into the backend REST API, allowing users to remotely create tasks, manage projects, and trigger physical prints via slash commands.
 
-<img width="1220" height="744" alt="dayprinter" src="https://github.com/user-attachments/assets/3138c563-036f-411d-afae-d1804abd03bd" />
+<img width="1223" height="733" alt="dayprinter" src="https://github.com/user-attachments/assets/fb10de05-6d79-4049-94f3-547108f9f60d" />
 
 ---
 
