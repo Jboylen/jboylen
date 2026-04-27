@@ -26,7 +26,7 @@ Recently, I've merged my engineering mindset with modern software development. I
 * **Custom TUI Dashboard:** Built a fully reactive, live terminal dashboard using `Textual` that surfaces real-time system health, latency sparklines, and active bot logs.
 * **Smart Parsing & Rate Limiting:** Includes dynamic screenshot correlation (matching local `.png` creation times to log files) and per-symbol rate throttling to prevent Discord API limits.
 
-<img width="1338" height="914" alt="alertTUI" src="https://github.com/user-attachments/assets/905519e5-fd02-4e09-a581-01082e285832" />
+<img width="1338" height="944" alt="alertTUI" src="https://github.com/user-attachments/assets/e713fe97-43b8-4fde-a84a-37f15f9969ba" />
 
 ### 2. "Day Printer" Task Ecosystem
 **A full-stack task management platform that bridges digital organization with physical hardware.**
