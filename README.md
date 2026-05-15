@@ -8,7 +8,7 @@ I'm a tinkerer, elite troubleshooter, and full-stack developer. With over 20 yea
 Recently, I've merged my engineering mindset with modern software development. I specialize in **AI integrations, API orchestration, and bridging the gap between digital tools and physical hardware**. 
 
 ## 💻 Tech Stack
-- **Languages:** Python, TypeScript, JavaScript, HTML/CSS, C/Assembly
+- **Languages:** Python, TypeScript, JavaScript, HTML/CSS, C, Assembly
 - **Frontend:** React, Tailwind CSS, shadcn/ui, Vite, Zustand
 - **Backend/Systems:** FastAPI, Node.js, SQLAlchemy, REST APIs, Hybrid Async/Sync execution
 - **Hardware & Embedded:** Microcontroller programming, POS/Receipt Printers (ESC/POS protocol)
