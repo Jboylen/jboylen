@@ -24,7 +24,7 @@ Recently, I've merged my engineering mindset with modern software development. I
 * **Decoupled Systems Architecture:** Built as a standalone service to isolate monitoring logic from the trading platform, preventing UI lockups and ensuring zero-loss alert processing.
 * **Hybrid Concurrency:** Engineered a custom pipeline that seamlessly orchestrates asynchronous event loops (`discord.py`, `Textual` TUI) alongside synchronous, thread-safe file I/O (`watchdog`) without blocking the main thread.
 * **Custom TUI Dashboard:** Built a fully reactive, live terminal dashboard using `Textual` that surfaces real-time system health, latency sparklines, and active bot logs.
-* **Smart Parsing & Rate Limiting:** Includes dynamic screenshot correlation (matching local `.png` creation times to log files) and per-symbol rate throttling to prevent Discord API limits.
+* **Smart Parsing & Rate Limiting:** Includes dynamic screenshot correlation (matching local `.png` creation times to log files) and per-symbol rate throttling.
 
 <img width="1338" height="944" alt="alertTUI" src="https://github.com/user-attachments/assets/e713fe97-43b8-4fde-a84a-37f15f9969ba" />
 
